@@ -2,10 +2,10 @@
 ## ポートフォリオ
 https://m-yanagishawa.github.io/my_portfolio/portfolio-website.html
 
-
+## Anurag's GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Yanagishawa)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,cs,dotnet,ubuntu,py,postgres,sqlite,vscode)](https://skillicons.dev)
 
 <!--
